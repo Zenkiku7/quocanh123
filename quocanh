@@ -5,7 +5,7 @@ end
 script_key="CATiHYXlMJIsNtwSIahsNiPeIrRGHcDE";
 DelayTime = 300
 getgenv().Setting = {
-    ["Team"] = "Marines", --Marines
+    ["Team"] = "Pirates", --Marines
     ["Webhook"] = {
         ["Url"] = "",
         ["Enabled"] = true,
